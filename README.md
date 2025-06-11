@@ -5,7 +5,7 @@ _Turning infrasturce into code and security into culture_
 
 ---
 
-## 🔭 **I’m currently working on**
+## 🔭 **Developing Expertise in**
 - 🏥 **Hospital Management System Deployment** on AWS (HIPAA-Compliant Architecture)
 - 🔐 Impliment zero-trust security models for cloud native applications
 - ⚡ Automating CI/CD pipelines with security scanning integration
