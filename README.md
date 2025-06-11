@@ -5,13 +5,13 @@ _Turning infrasturce into code and security into culture_
 
 ---
 
-## 🔭 **Developing Expertise in**
+## 🔭 **I'm Currently Working on**
 - 🏥 **Hospital Management System Deployment** on AWS (HIPAA-Compliant Architecture)
 - 🔐 Impliment zero-trust security models for cloud native applications
 - ⚡ Automating CI/CD pipelines with security scanning integration
 - 📦 Containerizing legacy applicattions with Docker & Kubernetes
   
-## 🌱 I’m Trying to Master
+## 🌱 **Developing Expertise on**
 - <img src="https://img.icons8.com/color/24/000000/amazon-web-services.png"/> **AWS Advanced Security Specialization**
 - <img src="https://img.icons8.com/color/24/000000/terraform.png"/> **Terraform Cloud Collaboration Patterns**
 - <img src="https://img.icons8.com/color/24/000000/kubernetes.png"/> **Kubernetes Network Policies**
